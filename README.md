@@ -1,9 +1,9 @@
-# lego_dashboard
+This repository contains an interactive LEGO dashboard built using selected dataset files from Rebrickable. The dashboard allows exploration of LEGO sets, parts, inventories, and themes. Key features include filtering sets by theme, analyzing inventory parts, and visualizing LEGO collection details.
 
-
-This repository contains a curated selection of LEGO dataset files downloaded from Rebrickable. The files included are:
-	•	 inventories.csv : Lists the inventory records for LEGO sets and minifigs.
-	•	 inventory_parts.csv : Details the specific parts associated with each inventory.
-	•	 parts.csv : Provides information about individual LEGO parts, including their IDs and descriptions.
-	•	 sets.csv : Contains data about LEGO sets, such as set numbers, names, and release years.
-	•	 themes.csv : Describes the various themes under which LEGO sets are categorised.
+The data files used for this dashboard are:
+	•	inventories.csv: Lists inventory records for LEGO sets and minifigs.
+	•	inventory_parts.csv: Details the specific parts included in each inventory.
+	•	parts.csv: Describes individual LEGO parts with IDs and names.
+	•	sets.csv: Details LEGO sets, set numbers, names, and release years.
+	•	themes.csv: Lists different LEGO themes for categorisation.
+	
